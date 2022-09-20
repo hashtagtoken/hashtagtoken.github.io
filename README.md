@@ -1,2 +1,0 @@
-# hashtagtoken.github.io
-$HASHTAG (#)
